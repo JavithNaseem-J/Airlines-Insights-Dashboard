@@ -22,7 +22,7 @@ This project showcases an interactive Tableau dashboard that analyzes British Ai
 7. Conclusion
 
 ## DashBoard
-![Screenshot 2024-08-12 195307](https://github.com/user-attachments/assets/858bd129-6c68-4a5b-80c6-f3fbbe348ce4)
+![image](https://github.com/user-attachments/assets/451cba9c-82c2-43b8-9fdc-ab4ecc3e1a8f)
 
 
 ## Project Introduction
