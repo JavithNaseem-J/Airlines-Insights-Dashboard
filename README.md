@@ -21,6 +21,10 @@ This project showcases an interactive Tableau dashboard that analyzes British Ai
 6. Business-impact
 7. Conclusion
 
+## DashBoard
+![Screenshot 2024-08-12 195307](https://github.com/user-attachments/assets/858bd129-6c68-4a5b-80c6-f3fbbe348ce4)
+
+
 ## Project Introduction
 
 This Tableau dashboard project analyzes customer satisfaction data for British Airways, aiming to identify trends and insights that can be leveraged to improve overall customer experience. The analysis spans several years and covers various aspects of the flying experience, providing valuable feedback for business improvement strategies.
