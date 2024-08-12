@@ -39,13 +39,13 @@ The Tableau dashboard is divided into several sections, each offering a differen
 
 ### Key Metrics
 
-- **Avg. Rating:** The overall average rating across all metrics.
-- **Avg. Staff Service:** Average rating for cabin and ground staff services.
-- **Avg. Ground Service:** Average rating for ground service.
-- **Avg. Seat Comfort:** Average rating for seat comfort.
-- **Avg. Value for Money:** Average rating for value for money.
-- **Avg. Food & Beverages:** Average rating for food and beverages.
-- **Avg. Entertainment:** Average rating for in-flight entertainment.
+- **Avg Rating:** The overall average rating across all metrics.
+- **Avg Staff Service:** Average rating for cabin and ground staff services.
+- **Avg Ground Service:** Average rating for ground service.
+- **Avg Seat Comfort:** Average rating for seat comfort.
+- **Avg Value for Money:** Average rating for value for money.
+- **Avg Food & Beverages:** Average rating for food and beverages.
+- **Avg Entertainment:** Average rating for in-flight entertainment.
 
 ### Average Ratings by Time
 
